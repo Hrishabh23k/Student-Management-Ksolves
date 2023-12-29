@@ -1,0 +1,7 @@
+<odoo>
+
+
+    <menuitem id="hospital_menu" name="Hospital"/>
+    <menuitem id="hospital_patient_menu" parent="hospital_menu"
+              name="Hospital" action="action_hospital" sequence="6" />
+</odoo>
